@@ -8,3 +8,5 @@ Hi, I want to show my server on v26 about 70% of all functions are implemented h
 PIP
 
 pip install tinydb
+
+Patched client- https://mega.nz/file/OL5SAD6Q#70_56frFtBDO5DC-g1qOzuzFv4txx_rT6Sr4m49-0NA
